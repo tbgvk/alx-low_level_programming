@@ -1,7 +1,7 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
-*  * main - Prints out a string to stdout
-*  * Return 0 (If Success)
+* main - Prints out a string to stdout
+* Return 0 (If Success)
 */
 
 int main(void)
